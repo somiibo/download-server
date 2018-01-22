@@ -1,8 +1,8 @@
 {
   "darwin-x64-prod": {
-    "update": "https://github.com/iwiedenm/somiibo-production/releases/download/darwin-x64-prod-v0.1.18/release.json",
-    "install": "https://github.com/iwiedenm/somiibo-production/releases/download/darwin-x64-prod-v0.1.18/Somiibo-0.1.18.dmg",
-    "version": "0.1.18"
+    "update": "https://github.com/iwiedenm/somiibo-production/releases/download/darwin-x64-prod-v0.1.17/release.json",
+    "install": "https://github.com/iwiedenm/somiibo-production/releases/download/darwin-x64-prod-v0.1.17/Somiibo-0.1.17.dmg",
+    "version": "0.1.17"
   },
   "linux-x64-prod": {
     "update": "https://github.com/iwiedenm/somiibo-production/releases/download/linux-x64-prod-v0.0.1/somiibo-0.0.1-x86_64.AppImage",
@@ -10,8 +10,8 @@
     "version": "0.0.1"
   },
   "win32-x64-prod": {
-    "update": "https://github.com/iwiedenm/somiibo-production/releases/download/win32-x64-prod-v0.1.17",
-    "install": "https://github.com/iwiedenm/somiibo-production/releases/download/win32-x64-prod-v0.1.17/Somiibo.Setup.0.1.17.exe",
-    "version": "0.1.17"
+    "update": "https://github.com/iwiedenm/somiibo-production/releases/download/win32-x64-prod-v0.1.18",
+    "install": "https://github.com/iwiedenm/somiibo-production/releases/download/win32-x64-prod-v0.1.18/Somiibo.Setup.0.1.18.exe",
+    "version": "0.1.18"
   }
 }
