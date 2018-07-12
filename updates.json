@@ -5,9 +5,9 @@
     "version": "0.1.28"
   },
   "win32-x64-prod": {
-    "update": "https://github.com/iwiedenm/somiibo-production/releases/download/win32-x64-prod-v0.1.27",
-    "install": "https://github.com/iwiedenm/somiibo-production/releases/download/win32-x64-prod-v0.1.27/Somiibo.Setup.0.1.27.exe",
-    "version": "0.1.27"
+    "update": "https://github.com/iwiedenm/somiibo-production/releases/download/win32-x64-prod-v0.1.28",
+    "install": "https://github.com/iwiedenm/somiibo-production/releases/download/win32-x64-prod-v0.1.28/Somiibo.Setup.0.1.28.exe",
+    "version": "0.1.28"
   },
   "win32-ia32-prod": {
     "update": "https://github.com/iwiedenm/somiibo-production/releases/download/win32-ia32-prod-v0.1.28",
