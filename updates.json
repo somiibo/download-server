@@ -1,8 +1,8 @@
 {
   "darwin-x64-prod": {
-    "update": "https://github.com/iwiedenm/somiibo-production/releases/download/darwin-x64-prod-v0.1.28/release.json",
-    "install": "https://github.com/iwiedenm/somiibo-production/releases/download/darwin-x64-prod-v0.1.28/Somiibo-0.1.28.dmg",
-    "version": "0.1.28"
+    "update": "https://github.com/iwiedenm/somiibo-production/releases/download/darwin-x64-prod-v0.1.30/release.json",
+    "install": "https://github.com/iwiedenm/somiibo-production/releases/download/darwin-x64-prod-v0.1.30/Somiibo-0.1.30.dmg",
+    "version": "0.1.30"
   },
   "win32-x64-prod": {
     "update": "https://github.com/iwiedenm/somiibo-production/releases/download/win32-x64-prod-v0.1.29",
