@@ -1,13 +1,13 @@
 {
   "darwin-x64-prod": {
-    "update": "https://github.com/iwiedenm/somiibo-production/releases/download/darwin-x64-prod-v0.1.35/release.json",
-    "install": "https://github.com/iwiedenm/somiibo-production/releases/download/darwin-x64-prod-v0.1.35/Somiibo-0.1.35.dmg",
-    "version": "0.1.35"
+    "update": "https://github.com/iwiedenm/somiibo-production/releases/download/darwin-x64-prod-v0.1.33/release.json",
+    "install": "https://github.com/iwiedenm/somiibo-production/releases/download/darwin-x64-prod-v0.1.33/Somiibo-0.1.33.dmg",
+    "version": "0.1.33"
   },
   "win32-x64-prod": {
-    "update": "https://github.com/iwiedenm/somiibo-production/releases/download/win32-x64-prod-v0.1.34",
-    "install": "https://github.com/iwiedenm/somiibo-production/releases/download/win32-x64-prod-v0.1.34/Somiibo.Setup.0.1.34.exe",
-    "version": "0.1.34"
+    "update": "https://github.com/iwiedenm/somiibo-production/releases/download/win32-x64-prod-v0.1.35",
+    "install": "https://github.com/iwiedenm/somiibo-production/releases/download/win32-x64-prod-v0.1.35/Somiibo.Setup.0.1.35.exe",
+    "version": "0.1.35"
   },
   "win32-ia32-prod": {
     "update": "https://github.com/iwiedenm/somiibo-production/releases/download/win32-ia32-prod-v0.1.35",
